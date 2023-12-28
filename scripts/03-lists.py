@@ -41,9 +41,14 @@
 # print(a, b, c)
 
 # Swapping values
-a = 1
-b = 2
-a, b = b, a
-print(a, b)
+# a = 1
+# b = 2
+# a, b = b, a
+# print(a, b)
 # a = 2
 # b = 1
+
+sample_list = [1, 2, 3, 4, [60, 70, 80], 6, 7, 8]
+# sample_list[-2] = 700
+sample_list = sample_list[::-1]
+print(sample_list)

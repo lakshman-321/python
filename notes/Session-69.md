@@ -69,3 +69,8 @@
 ### Unpacking
 
 - Extract individual values from a list into its individual variables
+
+### Properties of List
+
+- List is a mutable datatype i.e. the elements can be altered after they're defined
+- It also supports '+', '*' i.e. extending original list
