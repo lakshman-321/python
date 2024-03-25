@@ -1,5 +1,6 @@
 a = 5
 b = 2
+#vaiables
 
 total = a + b
 diff = a - b
